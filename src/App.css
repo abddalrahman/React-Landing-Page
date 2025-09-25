@@ -247,7 +247,7 @@ img{
 }
 /* ________________ */
 .swip-section{
-  background-image: url('images/swip-main.png');
+  background-image: url('../images/swip-main.png');
   background-size: cover;
   height: 630px;
   background-position: center;
@@ -488,7 +488,7 @@ img{
 }
 /* ___________ */
 .review-sec{
-  background-image: url('images/review-main.png');
+  background-image: url('../images/review-main.png');
   background-size: cover;
   background-position: center;
   min-height: 520px;
